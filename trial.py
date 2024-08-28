@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # Define the path to your image
-image_path = "/data/data_extraction_scripts/logo.png"  # Update this path to your image location
+image_path = "/logo.png"  # Update this path to your image location
 
 # Load and display the image
 def display_image(image_path):
